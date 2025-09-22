@@ -3,9 +3,9 @@
   <!-- TODO: reemplaza por tu banner cyberpunk -->
   <img src="https://raw.githubusercontent.com/Churtado82/Churtado82/main/assets/banner_cyberpunk.png" alt="Churtado82 — Data & Cyberpunk" width="100%">
   
-  <h1>Hola, soy Cristian Hurtado 👋</h1>
-  <p><b>Ingeniero Civil Industrial · Data Analyst</b></p>
-  <p>Datos limpios → decisiones claras. Analítica, calidad de datos y visualizaciones útiles.</p>
+  <h1>Hi! I'm Cristian Hurtadi 👋</h1>
+  <p><b>Ingeniero Civil Industrial · Data Scientist in training</b></p>
+  <p>.</p>
 
   <!-- Badges -->
   <p>
