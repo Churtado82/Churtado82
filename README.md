@@ -42,31 +42,25 @@ Currently, I’m training to become a **Data Scientist**, with strong foundation
 ---
 
 ### 🧰 Tech & Skills
-
-<!-- Fila 1: Core -->
-<sub>Python · GitHub · Git · Linux · VS Code · HTML · SQL/PostgreSQL</sub>
-
-<div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+<p>
   <img src="https://skillicons.dev/icons?i=python,github,git,linux,vscode,html,css" alt="Python, GitHub, Git, Linux, VS Code, HTML" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL / PostgreSQL" />
-</div>
+</p>
+<sub>Python · GitHub · Git · Linux · VS Code · HTML · SQL/PostgreSQL</sub>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,jupyter" alt="Python, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Jupyter" />
+</p>
 
-
-<!-- Fila 2: Python Data Science stack (usando skillicons para asegurar logos) -->
-<div style="display:flex; gap:8px; align-items:center; margin-top:8px; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,jupyter" alt="Python, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Jupyter" />
-</div>
-
-<!-- Fila 3: BI & others (shields) -->
-<div style="display:flex; gap:8px; align-items:center; margin-top:8px; flex-wrap:wrap;">
+<p>
   <img src="https://img.shields.io/badge/Power%20BI-FFB900?logo=powerbi&logoColor=white" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" alt="QGIS" />
-</div>
+</p>
+
 
 
 
