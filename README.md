@@ -101,7 +101,3 @@ Currently, I’m training to become a **Data Scientist**, with strong foundation
 - 🔗 **LinkedIn:** [churtadodata](https://www.linkedin.com/in/churtadodata/)
 
 ---
-
-<p align="center">
-  <i>“Clean data, clear decisions.”</i>  
-</p>
