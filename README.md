@@ -44,15 +44,18 @@ Currently, I’m training to become a **Data Scientist**, with strong foundation
 ### 🧰 Tech & Skills
 
 <!-- Fila 1: Core -->
+<sub>Python · GitHub · Git · Linux · VS Code · HTML · SQL/PostgreSQL</sub>
+
 <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=python,github,git,linux,vscode,html,css" alt="Python, GitHub, Git, Linux, VS Code, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=python,github,git,linux,vscode,html,css" alt="Python, GitHub, Git, Linux, VS Code, HTML" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL / PostgreSQL" />
 </div>
-<sub>Python · GitHub · Git · Linux · VS Code · HTML · CSS · SQL/PostgreSQL</sub>
+
+
 
 <!-- Fila 2: Python Data Science stack (usando skillicons para asegurar logos) -->
 <div style="display:flex; gap:8px; align-items:center; margin-top:8px; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,jupyter" alt="Python, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Jupyter" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,jupyter" alt="Python, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Jupyter" />
 </div>
 
 <!-- Fila 3: BI & others (shields) -->
