@@ -44,8 +44,9 @@ Currently, I’m training to become a **Data Scientist**, with strong foundation
 ### 🧰 Tech & Skills
 <p>
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=python,github,git,linux,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,github,linux,vscode,html" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <sub>Python · GitHub · VS Code · HTML · SQL/PostgreSQL</sub>
  
   <!-- Python Data Science stack -->
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
