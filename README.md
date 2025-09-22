@@ -18,7 +18,7 @@
     </a>
     <!-- TODO: Email -->
     <a href="mailto:cristianhurtado.data@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contacto-EA4335?logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-Contacto-EA4335?logo=gmail&logoColor=white" alt="cristianhurtado.data@gmail.com">
     </a>
     <img src="https://komarev.com/ghpvc/?username=Churtado82&style=flat&color=blue" alt="views"/>
   </p>
