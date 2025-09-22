@@ -1,6 +1,5 @@
 <!-- ============ HERO ============ -->
 <div align="center">
-  <!-- TODO: reemplaza por tu banner cyberpunk -->
   <img src="https://raw.githubusercontent.com/Churtado82/Churtado82/main/assets/banner_cyberpunk.png" alt="Churtado82 — Data & Cyberpunk" width="100%">
   
   <h1>Hi! I'm Cristian Hurtado 👋</h1>
@@ -12,13 +11,11 @@
     <a href="https://github.com/Churtado82">
       <img src="https://img.shields.io/badge/GitHub-@Churtado82-181717?logo=github" alt="GitHub">
     </a>
-    <!-- TODO: LinkedIn -->
     <a href="https://www.linkedin.com/in/churtadodata/">
       <img src="https://img.shields.io/badge/LinkedIn-churtadodata-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <!-- TODO: Email -->
     <a href="mailto:cristianhurtado.data@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contacto-EA4335?logo=gmail&logoColor=white" alt="cristianhurtado.data@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="cristianhurtado.data@gmail.com">
     </a>
     <img src="https://komarev.com/ghpvc/?username=Churtado82&style=flat&color=blue" alt="views"/>
   </p>
@@ -26,10 +23,22 @@
 
 ---
 
-### 🚀 Qué hago
-- Data Quality & Analytics: reglas de validación, ETL reproducible y dashboards accionables.
-- Historias con datos: comunicar hallazgos con foco en KPIs operacionales/financieros.
-- Docencia/mentoría: buenas prácticas de análisis y visualización.
+### 👨‍💻 About Me
+I’m an **Industrial Engineer and Environmental Biologist** based in Santiago, Chile, with professional experience in **data quality, analytics, and visualization** across logistics, clinical, and services industries.  
+Currently, I’m training to become a **Data Scientist**, with strong foundations in Python, SQL, BI tools, and advanced analytics. My focus is on building reliable, automated, and insightful data solutions to drive operational and financial decisions:contentReference[oaicite:0]{index=0}.  
+
+---
+
+### 🚀 What I Do & What I’m Building Towards
+- **Data Quality & Automation**: Validation rules, reproducible ETL pipelines, and data reliability monitoring.  
+- **Business Intelligence**: Dashboards in Power BI/Tableau for KPIs that reduce reporting time from days to hours.  
+- **Data Storytelling**: Translating datasets into insights for logistics, finance, and clinical operations.  
+- **Teaching & Mentoring**: Sharing best practices in analysis and visualization.  
+
+🔮 **In Progress — Data Science Path:**  
+- Applying **Machine Learning & Deep Learning** for predictive modeling.  
+- Exploring **Big Data ecosystems** (BigQuery, Spark) for scalable solutions.  
+- Expanding expertise in **statistical analysis** and advanced analytics for complex decision-making.  
 
 ---
 
@@ -49,13 +58,13 @@
 
 ---
 
-### 🌟 Proyecto Destacado
+### 🌟 Featured Project
 
 <table>
 <tr>
   <td width="100%">
     <h3><a href="https://github.com/Churtado82/Portfolio">📂 Portfolio</a></h3>
-    <p>Mi portafolio de proyectos: dashboards, análisis de datos, notebooks y ejemplos de calidad de datos.</p>
+    <p>My project portfolio: dashboards, data analysis, notebooks, and data quality examples.</p>
     <a href="https://github.com/Churtado82/Portfolio">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Churtado82&repo=Portfolio&theme=transparent" />
     </a>
@@ -65,7 +74,7 @@
 
 ---
 
-### 📊 Métricas
+### 📊 Metrics
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Churtado82&show_icons=true&theme=transparent&rank_icon=github" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Churtado82&layout=compact&theme=transparent" />
@@ -76,12 +85,12 @@
 
 ---
 
-### 🤝 Conectemos
+### 🤝 Let’s Connect
 - 📧 **cristianhurtado.data@gmail.com**  
 - 🔗 **LinkedIn:** [churtadodata](https://www.linkedin.com/in/churtadodata/)
 
 ---
 
 <p align="center">
-  <i>“Datos limpios, decisiones claras.”</i>  
+  <i>“Clean data, clear decisions.”</i>  
 </p>
