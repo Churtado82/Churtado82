@@ -101,3 +101,30 @@ Currently, I’m training to become a **Data Scientist**, with strong foundation
 - 🔗 **LinkedIn:** [churtadodata](https://www.linkedin.com/in/churtadodata/)
 
 ---
+
+
+### 🧰 Tech & Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,github,git,linux,vscode,html,css" alt="Python, GitHub, Git, Linux, VS Code, HTML, CSS" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL / PostgreSQL" />
+</p>
+<sub>Python · GitHub · Git · Linux · VS Code · HTML · CSS · SQL/PostgreSQL</sub>
+
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" title="SQL / PostgreSQL" alt="SQL / PostgreSQL" />
+</p>
+
+
+
+
+
+
