@@ -4,7 +4,6 @@
   
   <h1>Hi! I'm Cristian Hurtado 👋</h1>
   <p><b>Industrial Engineer · Environmental Biologist · Data Scientist in training</b></p>
-  <p>.</p>
 
   <!-- Badges -->
   <p>
