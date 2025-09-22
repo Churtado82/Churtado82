@@ -46,9 +46,11 @@ Currently, I’m training to become a **Data Scientist**, with strong foundation
   <!-- Core -->
   <img src="https://skillicons.dev/icons?i=python,github,linux,vscode,html" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+</p>
   <sub>Python · GitHub · VS Code · HTML · SQL/PostgreSQL</sub>
  
   <!-- Python Data Science stack -->
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white" />
@@ -57,8 +59,11 @@ Currently, I’m training to become a **Data Scientist**, with strong foundation
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+</p>
+
 
   <!-- BI & others -->
+<p>
   <img src="https://img.shields.io/badge/Power%20BI-FFB900?logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
