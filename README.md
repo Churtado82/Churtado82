@@ -51,8 +51,7 @@ Currently, I’m training to become a **Data Scientist**, with strong foundation
 </p>
 
 
- 
-  <!-- Python Data Science stack -->
+   <!-- Python Data Science stack -->
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
