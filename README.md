@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 I’m an **Industrial Engineer and Environmental Biologist** based in Santiago, Chile, with professional experience in **data quality, analytics, and visualization** across logistics, clinical, and services industries.  
-Currently, I’m training to become a **Data Scientist**, with strong foundations in Python, SQL, BI tools, and advanced analytics. My focus is on building reliable, automated, and insightful data solutions to drive operational and financial decisions:contentReference[oaicite:0]{index=0}.  
+Currently, I’m training to become a **Data Scientist**, with strong foundations in Python, SQL, BI tools, and advanced analytics. My focus is on building reliable, automated, and insightful data solutions to drive operational and financial decisions
 
 ---
 
